@@ -36,6 +36,7 @@ I'm actively seeking opportunities in:
 |--------|-------------|-------|
 | 🛒 Walmart Sales Forecasting | Time series forecasting of weekly retail sales using SARIMAX | Python, Statsmodels, Pandas |
 | 🦠 COVID-19 Global Analysis | EDA and Prophet-based forecasting of global case trends | Python, Prophet, Plotly |
+| 🎬 Netflix Movie Recommendation System|A collaborative filtering recommendation engine built on the Netflix Prize dataset 24 million ratings, 470K users, 4,499 movies | Python,Pandas,NumPy,Scikit-Surprise,SVD,Matplotlib,Seaborn|
 
 ---
 
